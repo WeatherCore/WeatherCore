@@ -1,20 +1,20 @@
 <!-- ============ Bloom Header (day / night follows your theme) ============ -->
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="bloom-header-night.svg" />
     <img src="bloom-header.svg" width="900" alt="WeatherCore — blooming banner" />
   </picture>
-</div>
+</div> -->
 
 <!-- ============ Sky ============ -->
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="sky-night.svg" />
     <img src="sky.svg" width="900" alt="" />
   </picture>
-</div>
+</div> -->
 
-<br/>
+<!-- <br/>
 
 <!-- ============ Stats ============ -->
 <div align="center">
@@ -39,4 +39,4 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=WeatherCore&label=Profile%20views&color=F4795B&style=flat)
 
-</div>
+</div> -->
